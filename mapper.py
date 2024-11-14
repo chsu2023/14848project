@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import sys
-
 # Read input line by line
 for line in sys.stdin:
     # Remove leading/trailing whitespace
