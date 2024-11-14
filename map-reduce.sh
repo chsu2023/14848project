@@ -1,4 +1,4 @@
-git clone https://github.com/jen1902/14848-project.git && \
+git clone https://github.com/chsu2023/14848project.git && \
 echo 'Ready to get in project' && \
 cd 14848-project && \
 echo 'Ready to put data into hdfs' && \
