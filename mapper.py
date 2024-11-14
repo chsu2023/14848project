@@ -2,6 +2,7 @@
 import sys
 
 
+
 # Read input line by line
 for line in sys.stdin:
     # Remove leading/trailing whitespace
